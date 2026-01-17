@@ -1,4 +1,4 @@
-## BEM VINDO AO MEU GITBUB! :)
+## BEM VINDO AO MEU GITHUB! :)
 
 <!--
 **duds3b/duds3b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
